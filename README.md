@@ -1,2 +1,2 @@
-# avblocks-sdk-cpp
-AVBlocks for C++
+# avblocks-cpp-win
+AVBlocks C++ SDK for Windows
