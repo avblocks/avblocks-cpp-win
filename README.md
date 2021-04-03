@@ -1,2 +1,2 @@
-# avblocks-cpp-win
-AVBlocks C++ SDK for Windows
+# avblocks-cpp-win-gui
+AVBlocks C++ SDK for Windows (GUI Samples)
